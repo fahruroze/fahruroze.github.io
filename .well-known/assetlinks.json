@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.pows_mobile",
+    "sha256_cert_fingerprints":
+    [" DC:5E:E4:E1:31:BB:3B:83:9E:78:95:C2:FA:33:D6:B9:2A:D6:97:73:87:AD:CA:1C:75:19:00:40:07:25:74:AA"]
+  }
+}]
